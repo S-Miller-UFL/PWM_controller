@@ -1,0 +1,8 @@
+//pwm_controller.v
+//Author(s): Steven Miller
+//Date created: December 23 2024
+//purpose: pwm control for motors
+/*
+	log
+		$ December 23 2024, Steven: initial creation
+*/

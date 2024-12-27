@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "out_output",
+					"strict" : false
+				},
+				{
+					"name" : "in_clk",
+					"strict" : false
+				},
+				{
+					"name" : "in_nres",
+					"strict" : false
+				},
+				{
+					"name" : "in_latch",
+					"strict" : false
+				},
+				{
+					"name" : "in_input[1]",
+					"strict" : false
+				},
+				{
+					"name" : "in_input[2]",
+					"strict" : false
+				},
+				{
+					"name" : "in_input[3]",
+					"strict" : false
+				},
+				{
+					"name" : "in_input[4]",
+					"strict" : false
+				},
+				{
+					"name" : "in_input[5]",
+					"strict" : false
+				},
+				{
+					"name" : "in_input[6]",
+					"strict" : false
+				},
+				{
+					"name" : "in_input[7]",
+					"strict" : false
+				},
+				{
+					"name" : "in_input[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

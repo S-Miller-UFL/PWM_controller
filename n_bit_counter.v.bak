@@ -1,0 +1,28 @@
+//n_bit_counter.v
+//Author(s): Steven Miller
+//Date created: December 23 2024
+//purpose: n bit counter
+/*
+	log:
+		$ December 23 2024, Steven: initial creation
+*/
+
+module n_bit_counter
+#(parameter n = 8)
+(
+	input[n-1:0] in_input,
+	input in_count_up,
+	input in_count_down,
+	input in_nres,
+	input in_clk,
+	output reg[n-1:0] out_output
+);
+
+always @ (posedge clk or negedge in_nres)
+
+begin
+
+
+end
+
+endmodule

@@ -1,0 +1,6 @@
+
+State Machine - |n_bit_counter|reg_state
+Name reg_state.state_idle reg_state.state_count_down reg_state.state_count_up 
+reg_state.state_idle 0 0 0 
+reg_state.state_count_up 1 0 1 
+reg_state.state_count_down 1 1 0 
